@@ -1,9 +1,11 @@
 <?php
 /*
   Plugin Name: VideoGIF
+  Plugin URI: https://github.com/Nikita240/wordpress-videogif
   Description: Adds a shortcode for encoding GIFV or mp4 GIF content.
-  Version: 0.1
+  Version: 1.0
   Author: Nikita Rushmanov
+  Author URI: https://github.com/Nikita240
  */
 add_shortcode('videogif', 'videogif');
 function videogif($attr = [], $content = null)
