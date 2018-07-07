@@ -8,6 +8,6 @@ Clone repository into `wp-content/plugins/videogif`. Enable plug-in from admin s
 
 ```
 [videogif mp4="url"]
-    Hello World
+    Caption goes here
 [/videogif]
 ```
